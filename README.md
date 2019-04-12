@@ -2,7 +2,7 @@
 A simple chat bot in python using socket library
 install `socket` using command line
 ```html
-<p>pip install socket</p>
+pip install socket
 
 ```
 Download both server.py and client1.py file in same directory.
